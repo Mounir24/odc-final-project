@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Alex Miguel",
+      "email": "info@alex.com",
+      "phone": "+212661533594",
+      "id": 1
+    },
+    {
+      "name": "Mounir El bertouli",
+      "email": "support@nexthostify.com",
+      "phone": "+212670283629",
+      "id": 4
+    },
+    {
+      "name": "Mohammed el bertouli",
+      "email": "mohammed@mbn.com",
+      "phone": "+212670972180",
+      "id": 5
+    },
+    {
+      "name": "Delary Fulton",
+      "email": "info@delaryfulton.com",
+      "phone": "+212670972180",
+      "id": 6
+    }
+  ]
+}
